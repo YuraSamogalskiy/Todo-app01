@@ -1,4 +1,4 @@
-# Todo-app01
+# Todo-appV1 on react
 
-v1 todo app on react
-Delete todo by double-clicking
+My first react-project.
+If you want to delete a reminder, double-click on it
